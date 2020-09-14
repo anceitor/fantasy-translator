@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9edfda1a7f34a435f6d224dd503a2946",
+    "revision": "2d32806e2904c04b3ce71e2f86ebd69b",
     "url": "/fantasy-translator/index.html"
   },
   {
-    "revision": "28ffb69157cd1bc84c05",
-    "url": "/fantasy-translator/static/css/main.5f361e03.chunk.css"
+    "revision": "d9d9f39ddf675656cc7f",
+    "url": "/fantasy-translator/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "844da017dbdbc6bc808d",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fantasy-translator/static/js/2.4aed5b96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28ffb69157cd1bc84c05",
-    "url": "/fantasy-translator/static/js/main.4ec80feb.chunk.js"
+    "revision": "d9d9f39ddf675656cc7f",
+    "url": "/fantasy-translator/static/js/main.e5b3f164.chunk.js"
   },
   {
     "revision": "07f90e816873e46f665b",
     "url": "/fantasy-translator/static/js/runtime-main.b44d2862.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/fantasy-translator/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/fantasy-translator/static/media/logo.ee7cd8ed.svg"
   }
 ]);
