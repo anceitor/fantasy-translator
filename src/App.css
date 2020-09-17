@@ -4,27 +4,13 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .input{
   background-color: rgb(211, 218, 255);
+  width: 50%;
 }
 
 .App-header {
   min-height: 100vh;
-  display: flex;
-  max-width: 100%;
-  height: auto;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);

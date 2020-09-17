@@ -1,0 +1,210 @@
+{
+  "Languages":[
+    {
+      "Language": "Aarakocra",
+      "Mod": 1,
+      "Style": 1
+
+    },
+    {
+      "Language": "Abyssal",
+      "Mod": 2,
+      "Style": 3
+    },
+    {
+      "Language": "Aquan",
+      "Mod": 3,
+      "Style": 4
+    },
+    {
+      "Language": "Auran",
+      "Mod": 4,
+      "Style": 4
+    },
+    {
+      "Language": "Bullywug",
+      "Mod": 5,
+      "Style": 2
+    },
+    {
+      "Language": "Celestial",
+      "Mod": 6,
+      "Style": 1
+    },
+    {
+      "Language": "Chitrin",
+      "Mod": 7,
+      "Style": 4
+    },
+    {
+      "Language": "Deep Speech",
+      "Mod": 8,
+      "Style": 4
+    },
+    {
+      "Language": "Draconic",
+      "Mod": 9,
+      "Style": 2
+    },
+    {
+      "Language": "Dwarvish",
+      "Mod": 10,
+      "Style": 2
+    },
+    {
+      "Language": "Elvish",
+      "Mod": 11,
+      "Style": 1
+    },
+    {
+      "Language": "Giant",
+      "Mod": 12,
+      "Style": 2
+    },
+    {
+      "Language": "Gith",
+      "Mod": 13,
+      "Style": 1
+    },
+    {
+      "Language": "Gnoll",
+      "Mod": 14,
+      "Style": 3
+    },
+    {
+      "Language": "Gnomish",
+      "Mod": 15,
+      "Style": 1
+    },
+    {
+      "Language": "Goblin",
+      "Mod": 16,
+      "Style": 2
+    },
+    {
+      "Language": "Grell",
+      "Mod": 17,
+      "Style": 3
+    },
+    {
+      "Language": "Grung",
+      "Mod": 18,
+      "Style": 3
+    },
+    {
+      "Language": "Halfling",
+      "Mod": 19,
+      "Style": 1
+    },
+    {
+      "Language": "Ignan",
+      "Mod": 20,
+      "Style": 4
+    },
+    {
+      "Language": "Infernal",
+      "Mod": 21,
+      "Style": 2
+    },
+    {
+      "Language": "Kraul",
+      "Mod": 22,
+      "Style": 3
+    },
+    {
+      "Language": "Kruthik",
+      "Mod": 23,
+      "Style": 3
+    },
+    {
+      "Language": "Loxodon",
+      "Mod": 24,
+      "Style": 1
+    },
+    {
+      "Language": "Merfolk",
+      "Mod": 25,
+      "Style": 4
+    },
+    {
+      "Language": "Minotaur",
+      "Mod": 26,
+      "Style": 2
+    },
+    {
+      "Language": "Orc",
+      "Mod": 27,
+      "Style": 2
+    },
+    {
+      "Language": "Primordial",
+      "Mod": 28,
+      "Style": 4
+    },
+    {
+      "Language": "Quori",
+      "Mod": 29,
+      "Style": 3
+    },
+    {
+      "Language": "Riedran",
+      "Mod": 30,
+      "Style": 1
+    },
+    {
+      "Language": "Sahuagin",
+      "Mod": 31,
+      "Style": 3
+    },
+    {
+      "Language": "Slaad",
+      "Mod": 32,
+      "Style": 3
+    },
+    {
+      "Language": "Sphinx",
+      "Mod": 33,
+      "Style": 1
+    },
+    {
+      "Language": "Sylvan",
+      "Mod": 34,
+      "Style": 1
+    },
+    {
+      "Language": "Terran",
+      "Mod": 35,
+      "Style": 4
+    },
+    {
+      "Language": "Thri-kreen",
+      "Mod": 36,
+      "Style": 2
+    },
+    {
+      "Language": "Troglodyte",
+      "Mod": 37,
+      "Style": 3
+    },
+    {
+      "Language": "Undercommon",
+      "Mod": 38,
+      "Style": 4
+    },
+    {
+      "Language": "Vedalken",
+      "Mod": 39,
+      "Style": 1
+    },
+    {
+      "Language": "Vegepygmy",
+      "Mod": 40,
+      "Style": 4
+    },
+    {
+      "Language": "Yeti",
+      "Mod": 41,
+      "Style": 4
+    }
+  ]
+}
